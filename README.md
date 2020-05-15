@@ -1,6 +1,5 @@
 # DevCamp
-
-https://github.com/gonzalez-marian/devcamp/blob/master/images/logo/decamp-fantastic-fries-logo-dark.png
+![alt text](https://github.com/gonzalez-marian/devcamp/blob/master/images/logo/decamp-fantastic-fries-logo-dark.png)
 
 Esta es una pagina con diseño responsive desarrollada con:
 
